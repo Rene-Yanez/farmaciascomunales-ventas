@@ -1,0 +1,5 @@
+com\farmaciascomunales\ventas\repository\VentaRepository.class
+com\farmaciascomunales\ventas\service\VentaService.class
+com\farmaciascomunales\ventas\controller\VentaController.class
+com\farmaciascomunales\ventas\VentasApplication.class
+com\farmaciascomunales\ventas\model\Venta.class
